@@ -1,0 +1,1 @@
+# Tracking-brighest-point-using-Opencv
